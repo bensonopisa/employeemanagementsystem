@@ -1,4 +1,4 @@
-# employeemanagementsystem
+# employee management system
 Simple Web application for managing employees in an organization
 
 # The frontend is done using thymeleaf templates and the backend is springboot with Java 17.
